@@ -1,0 +1,6 @@
+{
+  "name": "Auraswarm Dice Roller",
+  "description": "A simple, embeddable, mobile-friendly dice roller for rolling 1 or 2 dice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
